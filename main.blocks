@@ -1,10 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="minecraftOnChat">
-    <value name="command">
-      <shadow type="text">
-        <field name="TEXT">run</field>
-      </shadow>
-    </value>
-  </block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="minecraftOnChat" id="XF4jk^r`J}Jhf`|aJik," x="0" y="0"><mutation xmlns="http://www.w3.org/1999/xhtml" numargs="0"></mutation><value name="command"><shadow type="text" id="a3I4UWa];Hc?(:yB`p:H"><field name="TEXT">run</field></shadow></value><statement name="HANDLER"><block type="custom_四角をつくる" id="mWGY(c_v)-FJM,wdra%T"><field name="b">Block.Grass</field></block></statement></block></xml>
